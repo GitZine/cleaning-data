@@ -10,6 +10,7 @@ This code book summarizes the resulting data fields in tidy.txt.
 "activity_name" 
  
 ### Measurements 
+- Features are normalized and bounded within [-1,1].
 
  "tBodyAcc-mean()-X"              
  "tBodyAcc-mean()-Y"           
